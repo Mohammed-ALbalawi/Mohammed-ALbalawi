@@ -1,32 +1,41 @@
-### 👋 Hi, I'm Mohammed
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FFCC&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Mohammed;CS+Student+%7C+Cybersecurity+Enthusiast+%7C+ML+%26+Flutter+Dev" alt="Typing SVG"/>
+</p>
 
-**Computer Science Student | Cybersecurity Enthusiast 🔐 | ML & Flutter Developer 🤖📱**  
-
-I love exploring cybersecurity techniques, building machine learning models, and creating mobile apps. Always eager to learn and experiment with new technologies.
+<p align="center">
+  🔐 Cybersecurity | 🤖 Machine Learning | 📱 Flutter Developer
+</p>
 
 ---
 
-### 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C1C?style=for-the-badge)
+### 🛠 My Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-6E4C1C?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-albalawi&show_icons=true&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-albalawi&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats"/>
+</p>
 
 ---
 
 ### 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mka.albalawi@gmail.com)
+<p align="center">
+  <a href="mailto:mka.albalawi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> “Learning never exhausts the mind.” — Leonardo da Vinci
+<p align="center">
+  <em>“Learning never exhausts the mind.” — Leonardo da Vinci</em>
+</p>
