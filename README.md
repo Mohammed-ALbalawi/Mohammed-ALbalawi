@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Cybersecurity | Machine Learning | Flutter Development
+  Computer Science Student | Cybersecurity | Machine Learning | Flutter Developer
 </p>
 
 ---
