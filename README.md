@@ -22,9 +22,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xe_v&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-albalawi&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xe_v&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-albalawi&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
