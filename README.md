@@ -17,10 +17,10 @@
 
 ### ⚡ Learning / Tech Radar
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Nmap%20%26%20Wireshark-0F4C81?style=for-the-badge&logo=nmap&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Machine%20Learning-XGBoost%20%26%20Scikit--Learn-FF9900?style=for-the-badge&logo=xgboost&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Mobile%20Dev-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Continuous%20Learning-New%20Languages%20%26%20Frameworks-32CD32?style=for-the-badge&logo=education&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Nmap%20%26%20Wireshark-1E90FF?style=for-the-badge&logo=nmap&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Machine%20Learning-XGBoost%20%26%20Scikit--Learn-1E90FF?style=for-the-badge&logo=xgboost&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Mobile%20Dev-Flutter-1E90FF?style=for-the-badge&logo=flutter&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Continuous%20Learning-New%20Languages%20%26%20Frameworks-1E90FF?style=for-the-badge&logo=education&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -31,6 +31,7 @@
     Always expanding knowledge with the latest technologies.
   </em>
 </p>
+
 
 
 ---
