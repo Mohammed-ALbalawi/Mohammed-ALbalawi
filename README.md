@@ -1,50 +1,53 @@
-<!-- 🌌 Clean Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1527443224154-d65f4e6e1b48?auto=format&fit=crop&w=1600&q=80" width="100%" />
+  <img src="https://i.imgur.com/VG5bP9Z.png" alt="Mohammed Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#1E90FF">Mohammed Albalawi</span></h1>
+<!-- Animated Heading -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=1E90FF&center=true&vCenter=true&width=600&lines=Mohammed+Albalawi;Computer+Science+Student;Cybersecurity+%2B+Machine+Learning+Enthusiast;Always+Learning+New+Things🔥" />
+</h1>
 
+---
+
+## 🧑‍💻 **About Me**
+- 🎓 طالب **علوم الحاسب**
+- 🛡 مهتم بـ **الأمن السيبراني**
+- 🤖 أتعلم **تعلم الآلة**
+- 🚀 أحب بناء المشاريع وتعلم التقنيات الجديدة  
+- 🎯 هدفي: الجمع بين **Cybersecurity + ML**
+
+---
+
+## 🛠️ **Tech Stack**
 <p align="center">
-  Backend • Systems • Cybersecurity • Machine Learning  
-  <br>
-  <em>“I build quietly… and evolve relentlessly.”</em>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 ---
 
-## 🔧 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,rust,flutter,dart,linux,bash,git,github,js,html,css,mysql,postman,docker" />
-</p>
+## 🚀 **Current Learning Goals**
+- إتقان **Flutter Web**
+- تطوير **ML + Cybersecurity pipeline**
+- تجربة **Rust** والتعمق فيها
+- بناء مشاريع تفاعلية وفعالة
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohammed-ALbalawi&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-ALbalawi&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
-## 🎯 Learning Goals — 2025
-<p align="center">
-  • Master **Flutter Web**  
-  • Build a full **ML + Cybersecurity pipeline**  
-  • Dive deeper into **Rust** & systems development  
-  • Improve backend architecture & clean code  
-</p>
-
----
-
-## 📫 Contact Me
+## 📫 **Contact**
 <p align="center">
   <a href="mailto:mka.albalawi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mka.albalawi@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-mka.albalawi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br><br>
-  <a href="https://www.linkedin.com/in/mohammed-albalawi-18b50639a?trk=contact-info" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-albalawi-18b50639a">
     <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Albalawi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -52,9 +55,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-ALbalawi&label=Profile+Views&color=1E90FF&style=flat" />
-</p>
-
-<p align="center">
-  <em>“Learning never exhausts the mind.” — Leonardo da Vinci</em>
+  <em>"Learning never exhausts the mind." — Leonardo da Vinci</em>
 </p>
