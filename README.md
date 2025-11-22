@@ -19,19 +19,24 @@
 </p>
 
 ---
+
 ### ⚡ Learning / Tech Radar
 <p align="center">
-  ⚡ Cybersecurity Tools: Nmap, Wireshark  
-  ⚡ Machine Learning: XGBoost, Scikit-Learn  
-  ⚡ Flutter & Mobile Development  
-</p> 
-----
+  <img src="https://img.shields.io/badge/Nmap-0C0C0C?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF7F50?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile-00CFFF?style=for-the-badge&logo=appveyor&logoColor=white"/>
+</p>
+
+---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-albalawi&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xe_v&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-albalawi&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xe_v&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -42,7 +47,7 @@
 **Current Project:**  
 [**Cybersecurity Threat Detection ML**](https://github.com/xe_v)  
 *Detecting suspicious login attempts using XGBoost and Random Forest.*  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
 
 **More Projects:**  
 <em>Coming Soon! Stay tuned 🔜</em>
@@ -51,14 +56,12 @@
 
 ---
 
-</p>
-
----
-
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:mka.albalawi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="50" height="50" title="Email Me"/>
+    <br>
+    <strong>mka.albalawi@gmail.com</strong>
   </a>
 </p>
 
