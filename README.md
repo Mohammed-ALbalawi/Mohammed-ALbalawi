@@ -1,46 +1,37 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=1E90FF&center=true&vCenter=true&width=700&lines=Hello,+I'm+Mohammed;Computer+Science+Student+|+Cybersecurity+Enthusiast+|+Machine+Learning+%26+Flutter+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFCC&center=true&vCenter=true&width=600&lines=Hello,+I'm+Mohammed;Computer+Science+Student+|+Cybersecurity+Enthusiast+|+Machine+Learning+%26+Flutter+Developer" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  Computer Science Student | Cybersecurity | Machine Learning | Flutter Developer
+  Cybersecurity | Machine Learning | Flutter Development
 </p>
 
 ---
 
 ### 🛠 My Tech Stack
 <p align="center">
-  Python, Java, JavaScript, Flutter, HTML5, Assembly
+  Python (Advanced) | Java (Intermediate) | JavaScript (Intermediate) | Flutter (Intermediate) | HTML5 | Assembly
 </p>
 
 ---
 
 ### ⚡ Learning / Tech Radar
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Nmap%20%26%20Wireshark-1E90FF?style=for-the-badge&logo=nmap&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Machine%20Learning-XGBoost%20%26%20Scikit--Learn-1E90FF?style=for-the-badge&logo=xgboost&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Mobile%20Dev-Flutter-1E90FF?style=for-the-badge&logo=flutter&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Continuous%20Learning-New%20Languages%20%26%20Frameworks-1E90FF?style=for-the-badge&logo=education&logoColor=white"/>
+  - Exploring Cybersecurity Tools like **Nmap & Wireshark**  
+  - Building ML models with **XGBoost & Scikit-Learn**  
+  - Developing mobile apps with **Flutter**  
+  - Continuously learning **new languages and frameworks**
 </p>
-
-<p align="center">
-  <em>
-    Exploring Cybersecurity tools to strengthen defenses, <br>
-    Building intelligent ML models to solve complex problems, <br>
-    Developing cross-platform mobile apps with Flutter, <br>
-    Always expanding knowledge with the latest technologies.
-  </em>
-</p>
-
-
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-albalawi&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xe_v&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-albalawi&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xe_v&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xe_v&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -49,12 +40,25 @@
 <p align="center">
 
 **Current Project:**  
-[**Cybersecurity Threat Detection ML**](https://github.com/xe_v)  
+[**Cybersecurity Threat Detection ML**](https://github.com/xe_v/Cybersecurity-Threat-Detection-ML)  
 *Detecting suspicious login attempts using XGBoost and Random Forest.*  
+<img src="https://via.placeholder.com/600x200.png?text=Project+Preview" alt="Project Preview" width="600"/>
+
+**Open Source Contributions:**  
+- Contributed to [SomeRepo](#) — improved documentation and fixed minor bugs.  
 
 **More Projects:**  
 <em>Coming Soon! Stay tuned 🔜</em>
 
+</p>
+
+---
+
+### 🎯 Learning Goals
+<p align="center">
+  - Master Flutter Web development this quarter  
+  - Build a full ML pipeline for a cybersecurity project  
+  - Learn a new language: Rust  
 </p>
 
 ---
