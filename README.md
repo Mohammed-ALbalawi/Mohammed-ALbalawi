@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/VG5bP9Z.png" width="100%">
-</p>
-
 <!-- Animated Typing Title -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1E90FF&center=true&vCenter=true&width=600&lines=Mohammed+Albalawi;Computer+Science+Student;Offensive+Security+%2B+ML+Explorer;Backend+%26+Systems+Developer">
