@@ -17,25 +17,18 @@ Passionate about learning new technologies, building projects, and exploring the
 
 ---
 
-### 🚀 Projects
-
-- [Cybersecurity Threat Detection](#) – Detect suspicious logins using ML (XGBoost, RandomForest)
-- [Flutter App](#) – Mobile app built with Flutter
-- [Other Project](#) – Add your future project description here
-
----
-
 ### 📊 GitHub Stats
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-ALbalawi&show_icons=true&theme=radical)
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=xe_v&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mka.albalawi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xe_v)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 ---
 
