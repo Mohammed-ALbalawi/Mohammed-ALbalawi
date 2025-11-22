@@ -1,6 +1,6 @@
-<!-- 🌌 Minimal Banner -->
+<!-- 🌌 Clean Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/6LRp7aS.png" width="100%" alt="Banner" />
+  <img src="https://images.unsplash.com/photo-1527443224154-d65f4e6e1b48?auto=format&fit=crop&w=1600&q=80" width="100%" />
 </p>
 
 <h1 align="center">👋 Hey, I'm <span style="color:#1E90FF">Mohammed Albalawi</span></h1>
