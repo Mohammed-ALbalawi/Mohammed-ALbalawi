@@ -1,43 +1,39 @@
-# 👋 Mohammed Albalawi
-
+<!-- 🌌 Minimal Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-ALbalawi&label=Profile%20Views&color=1E90FF&style=flat" />
+  <img src="https://i.imgur.com/6LRp7aS.png" width="100%" alt="Banner" />
 </p>
 
----
+<h1 align="center">👋 Hey, I'm <span style="color:#1E90FF">Mohammed Albalawi</span></h1>
 
-## 🚀 About Me
 <p align="center">
-  <strong>Computer Science Student · Cybersecurity & Machine Learning Enthusiast</strong>
-  <br><br>
-  طالب علوم حاسب مهتم بالأمن السيبراني وتعلم الآلة، وأسعى لربط المجالين عبر بناء أنظمة قادرة على تحليل البيانات، اكتشاف التهديدات، واتخاذ قرارات ذكية. شغوف بالتجارب العملية وتطوير مشاريع تعكس فهمًا عميقًا في الأنظمة والذكاء الاصطناعي.
+  Backend • Systems • Cybersecurity • Machine Learning  
+  <br>
+  <em>“I build quietly… and evolve relentlessly.”</em>
 </p>
 
 ---
 
 ## 🔧 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=java,python,rust,flutter,dart,linux,bash,git,github,js,html,css,mysql,postman,docker" />
 </p>
 
 ---
 
-## 📂 Highlight Projects
+## 📊 GitHub Stats
 <p align="center">
-  <em>More Projects Coming Soon... Stay Tuned 🔜</em>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohammed-ALbalawi&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-ALbalawi&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
-## 🎯 Learning Goals
+## 🎯 Learning Goals — 2025
 <p align="center">
-  - التعمق في تطوير **Flutter Web** خلال هذا الربع  
-  - بناء Pipeline كامل يجمع بين **الأمن السيبراني + تعلم الآلة**  
-  - تعلم **Rust** وتجربة أطر عمل جديدة  
+  • Master **Flutter Web**  
+  • Build a full **ML + Cybersecurity pipeline**  
+  • Dive deeper into **Rust** & systems development  
+  • Improve backend architecture & clean code  
 </p>
 
 ---
@@ -54,6 +50,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-ALbalawi&label=Profile+Views&color=1E90FF&style=flat" />
+</p>
 
 <p align="center">
   <em>“Learning never exhausts the mind.” — Leonardo da Vinci</em>
