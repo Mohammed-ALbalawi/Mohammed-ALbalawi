@@ -10,33 +10,26 @@
 
 ### 🛠 My Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" width="50" height="50" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="50" height="50" title="Assembly"/>
+  Python, Java, JavaScript, Flutter, HTML5, Assembly
 </p>
 
 ---
 
 ### ⚡ Learning / Tech Radar
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-0C0C0C?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF7F50?style=for-the-badge&logo=xgboost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mobile-00CFFF?style=for-the-badge&logo=appveyor&logoColor=white"/>
+  ⚡ Exploring Cybersecurity Tools like **Nmap & Wireshark**  
+  ⚡ Building ML models with **XGBoost & Scikit-Learn**  
+  ⚡ Developing mobile apps with **Flutter**  
+  ⚡ Continuously learning **new languages and frameworks**
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xe_v&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-albalawi&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xe_v&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-albalawi&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -47,7 +40,6 @@
 **Current Project:**  
 [**Cybersecurity Threat Detection ML**](https://github.com/xe_v)  
 *Detecting suspicious login attempts using XGBoost and Random Forest.*  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
 
 **More Projects:**  
 <em>Coming Soon! Stay tuned 🔜</em>
@@ -59,9 +51,7 @@
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:mka.albalawi@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="50" height="50" title="Email Me"/>
-    <br>
-    <strong>mka.albalawi@gmail.com</strong>
+    <img src="https://img.shields.io/badge/Email-mka.albalawi@gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
