@@ -22,7 +22,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-albalawi&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xe_v&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xe_v&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+### 🚀 Projects
+<p align="center">
+  <em>Coming Soon! Stay tuned 🔜</em>
 </p>
 
 ---
@@ -32,6 +41,14 @@
   <a href="mailto:mka.albalawi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+---
+
+### ⚡ GitHub Stats Badges
+<p align="center">
+  <img src="https://img.shields.io/github/followers/mohammed-albalawi?label=Followers&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/commit-activity/m/mohammed-albalawi?label=Commits&style=for-the-badge&logo=github"/>
 </p>
 
 ---
