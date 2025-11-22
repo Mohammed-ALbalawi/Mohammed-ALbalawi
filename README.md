@@ -19,7 +19,7 @@ I love exploring cybersecurity techniques, building machine learning models, and
 
 ### 📊 GitHub Stats
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=xe_v&show_icons=true&theme=dracula)
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-albalawi&show_icons=true&theme=dracula)
 
 ---
 
