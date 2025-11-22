@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  Cybersecurity | Machine Learning | Flutter Development  
+  💻 Computer Science Student | 🔒 Cybersecurity Enthusiast | 🤖 ML & Flutter Developer
 </p>
+
 
 ---
 
