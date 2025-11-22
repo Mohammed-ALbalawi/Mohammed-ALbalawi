@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FFCC&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Mohammed;CS+Student+%7C+Cybersecurity+Enthusiast+%7C+ML+%26+Flutter+Dev" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFCC&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Mohammed;CS+Student+%7C+Cybersecurity+Enthusiast+%7C+ML+%26+Flutter+Dev" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -31,7 +31,34 @@
 
 ### 🚀 Projects
 <p align="center">
-  <em>Coming Soon! Stay tuned 🔜</em>
+
+**Current Project:**  
+[**Cybersecurity Threat Detection ML**](https://github.com/xe_v)  
+*Detecting suspicious login attempts using XGBoost and Random Forest.*  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+**More Projects:**  
+<em>Coming Soon! Stay tuned 🔜</em>
+
+</p>
+
+---
+
+### 🏆 Achievements / Milestones
+<p align="center">
+  <img src="https://img.shields.io/github/followers/xe_v?label=Followers&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/commit-activity/m/xe_v?label=Commits&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Top-Languages-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-Streak-4CAF50?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚡ Learning / Tech Radar
+<p align="center">
+  ⚡ Cybersecurity Tools: Nmap, Wireshark  
+  ⚡ Machine Learning: XGBoost, Scikit-Learn  
+  ⚡ Flutter & Mobile Development  
 </p>
 
 ---
@@ -41,14 +68,6 @@
   <a href="mailto:mka.albalawi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-### ⚡ GitHub Stats Badges
-<p align="center">
-  <img src="https://img.shields.io/github/followers/mohammed-albalawi?label=Followers&style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/commit-activity/m/mohammed-albalawi?label=Commits&style=for-the-badge&logo=github"/>
 </p>
 
 ---
