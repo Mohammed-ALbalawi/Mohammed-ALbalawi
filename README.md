@@ -19,6 +19,13 @@
 </p>
 
 ---
+### ⚡ Learning / Tech Radar
+<p align="center">
+  ⚡ Cybersecurity Tools: Nmap, Wireshark  
+  ⚡ Machine Learning: XGBoost, Scikit-Learn  
+  ⚡ Flutter & Mobile Development  
+</p> 
+----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -44,21 +51,6 @@
 
 ---
 
-### 🏆 Achievements / Milestones
-<p align="center">
-  <img src="https://img.shields.io/github/followers/xe_v?label=Followers&style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/commit-activity/m/xe_v?label=Commits&style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Top-Languages-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-Streak-4CAF50?style=for-the-badge"/>
-</p>
-
----
-
-### ⚡ Learning / Tech Radar
-<p align="center">
-  ⚡ Cybersecurity Tools: Nmap, Wireshark  
-  ⚡ Machine Learning: XGBoost, Scikit-Learn  
-  ⚡ Flutter & Mobile Development  
 </p>
 
 ---
