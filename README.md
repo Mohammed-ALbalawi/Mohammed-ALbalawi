@@ -1,88 +1,71 @@
+<!-- Header -->
+<h1 align="center">👋 Hey, I'm <span style="color:#1E90FF">Mohammed Albalawi</span></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFCC&center=true&vCenter=true&width=600&lines=Hello,+I'm+Mohammed;Computer+Science+Student+|+Cybersecurity+Enthusiast+|+ML+%26+Flutter+Dev" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  💻 Computer Science Student | 🔒 Cybersecurity Enthusiast | 🤖 ML & Flutter Developer
-</p>
-
-
----
-
-### 🛠 My Tech Stack  
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />  
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
-  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=asm&logoColor=white" />
+  Backend • Systems • Cybersecurity • ML  
+  <br>
+  <em>“I build quietly… and improve continuously.”</em>
 </p>
 
 ---
 
-### ⚡ Learning / Tech Radar  
+<!-- Typing Animation -->
 <p align="center">
-  <img alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity‑Tools‑Nmap%20%26%20Wireshark-blue?style=for-the-badge&logo=wireshark" />  
-  <img alt="ML" src="https://img.shields.io/badge/Machine%20Learning‑XGBoost%20%26%20Scikit‑Learn-orange?style=for-the-badge&logo=python" />  
-  <img alt="Flutter Dev" src="https://img.shields.io/badge/Flutter‑Apps‑Mobile‑Development-02569B?style=for-the-badge&logo=flutter" />  
-  <img alt="Next Learning" src="https://img.shields.io/badge/Next‑Learning‑Rust%20%26%20New‑Frameworks-yellow?style=for-the-badge&logo=rust" />
-</p>
-
-<p align="center">
-  <em>Always exploring new technologies to build smarter and safer solutions.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=22&duration=2500&pause=800&color=1E90FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Backend+%26+System+Dev+Enthusiast;Cybersecurity+Learner;Building+Real+World+Projects" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+## 🔧 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-albalawi&show_icons=true&theme=radical&hide_border=true" alt="Mohammed's GitHub Stats" />  
-  <br>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-albalawi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />  
-  <br>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-albalawi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=java,python,flutter,rust,js,html,css,linux,bash,git" />
 </p>
 
 ---
 
-### 🚀 Projects  
+## 📊 GitHub Stats
 <p align="center">
-  **Current Project:**  
-  [**Cybersecurity Threat Detection ML**](https://github.com/mohammed-albalawi/Cybersecurity‑Threat‑Detection‑ML)  
-  *Detecting suspicious login attempts using XGBoost & Random Forest.*  
-  <br><br>  
-  **Open Source Contributions:**  
-  - Contributed to [SomeRepo](#) — improved documentation & fixed bugs  
-  <br><br>  
-  **More Projects:**  
-  <em>Coming Soon! Stay tuned 🔜</em>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammed-ALbalawi&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-ALbalawi&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
-### 🎯 Learning Goals  
+## 🏆 GitHub Achievements
 <p align="center">
-  - Master **Flutter Web** development this quarter  
-  - Build a full **ML + Cybersecurity pipeline**  
-  - Learn **Rust** and experiment with new frameworks  
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-ALbalawi&theme=tokyonight&margin-w=8&no-frame=true" />
 </p>
 
 ---
 
-### 📫 Contact Me  
+## 🎯 Learning Goals
 <p align="center">
-  <a href="mailto:mka.albalawi@gmail.com">  
-    <img src="https://img.shields.io/badge/Email-mka.albalawi@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>  
-  </a>  
-  <br><br>  
-  <a href="https://www.linkedin.com/in/mohammed-albalawi" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Albalawi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
+  🚀 Master **Flutter Web** this quarter  
+  🔐 Build a full **ML + Cybersecurity Pipeline**  
+  🦀 Explore **Rust** deeply  
+</p>
+
+---
+
+## 📂 Highlight Projects
+<p align="center">
+  <em>More projects coming soon… Stay tuned 🔜</em>
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="mailto:mka.albalawi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mka.albalawi@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/mohammed-albalawi-18b50639a?trk=contact-info">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Albalawi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>“Learning never exhausts the mind.” — Leonardo da Vinci</em>  
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-ALbalawi&label=Profile+Views&color=1E90FF&style=flat" />
 </p>
